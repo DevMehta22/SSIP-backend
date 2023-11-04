@@ -16,7 +16,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^7.6.4",
+    "mongoose": "^6.0.0",
     "node-modules": "^1.0.1",
     "nodemon": "^3.0.1",
     "request-ip": "^3.3.0",
